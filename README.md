@@ -23,12 +23,12 @@ Currently learning Front-End and ASP.NET while building university and personal 
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rummanmonther@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://discord.gg/YOUR_LINK" target="_blank">
+<a href="https://discord.gg/abu_ruuman_" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" width="50" />
 </a>
 </p>
